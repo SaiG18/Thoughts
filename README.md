@@ -9,7 +9,6 @@
     - ReactJS, React Router
     - Redux
     - Integration with Google Firebase
-    - 
 
 
 ### Screenshots
