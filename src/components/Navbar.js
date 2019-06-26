@@ -11,7 +11,7 @@ export default class Navbar extends Component {
           <h2 id="link2">User</h2>
         </NavLink>
         <NavLink to="/">
-          <h1 id="navTitle">Abstracts</h1>
+          <h1 id="navTitle">Thoughts</h1>
         </NavLink>
       </div>
     );

@@ -46,7 +46,7 @@ class Splash extends Component {
                   <h2 id="link2">New Post</h2>
                 </NavLink>
                 <NavLink to="/">
-                  <h1 id="navTitle">Abstracts</h1>
+                  <h1 id="navTitle">Thoughts</h1>
                 </NavLink>
               </div>
             </span>
