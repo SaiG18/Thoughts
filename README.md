@@ -2,7 +2,7 @@
 
 ### Features
 
-- Minimal Interface
+- Minimal User Interface
 - Google Authentication
 - WYSIWYG Editor
 - Tech Stack
